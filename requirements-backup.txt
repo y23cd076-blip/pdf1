@@ -1,0 +1,15 @@
+# Use this if the main requirements.txt fails
+streamlit
+pypdf
+langchain
+langchain-text-splitters  
+langchain-huggingface
+langchain-community
+langchain-google-genai
+Pillow
+transformers
+torch
+faiss-cpu
+sentence-transformers
+google-generativeai
+huggingface-hub

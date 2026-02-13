@@ -1,19 +1,17 @@
-streamlit==1.32.0
-requests==2.31.0
-pypdf==4.2.0
+streamlit
+requests
+pypdf
 
-langchain==0.1.17
-langchain-community==0.0.36
-langchain-text-splitters==0.0.1
-langchain-huggingface==0.0.3
-langchain-google-genai==0.0.11
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
 
-faiss-cpu==1.9.0.post1
-sentence-transformers==2.7.0
-huggingface-hub==0.23.0
+sentence-transformers
+faiss-cpu
 
-transformers==4.41.2
-torch==2.2.2
-pillow==10.3.0
+transformers
+torch
+pillow
 
-python-dotenv==1.0.1
+python-dotenv

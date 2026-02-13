@@ -1,17 +1,17 @@
-streamlit
+streamlit==1.32.0
 requests
 pypdf
 
-langchain
-langchain-community
-langchain-text-splitters
-langchain-google-genai
+langchain==0.1.17
+langchain-community==0.0.36
+langchain-core==0.1.52
+langchain-text-splitters==0.0.1
+langchain-google-genai==0.0.11
 
-sentence-transformers
-faiss-cpu
+sentence-transformers==2.7.0
+faiss-cpu==1.9.0.post1
 
-transformers
-torch
+transformers==4.41.2
+torch==2.2.2
 pillow
-
 python-dotenv

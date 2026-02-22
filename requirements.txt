@@ -1,0 +1,9 @@
+streamlit
+supabase
+langchain
+langchain-huggingface
+langchain-community
+sentence-transformers
+pypdf2
+python-dotenv
+Pillow
